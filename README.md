@@ -8,4 +8,5 @@ This project is from Gp 2.2, consists of creating an app using the OPENCV API, i
 ###Student:
 - Charlie Cárdenas [cacardenas7@utpl.edu.ec](cacardenas7@utpl.edu.ec)
 
+##FACE DETECTION - OPENCV
 
