@@ -19,3 +19,5 @@ The IBM Watson™ Visual Recognition service uses deep learning algorithms to id
 Descriptions of Python classes referred to in this reference are available in the Python documentation for the Watson Developer Cloud Python SDK.
 
 ####Installation Visual Recognition - Python
+-------------------
+	•pip install --upgrade watson-developer-cloud
