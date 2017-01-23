@@ -10,3 +10,4 @@ This project is from Gp 2.2, consists of creating an app using the OPENCV API, i
 
 ##FACE DETECTION - OPENCV
 
+A face recognition algorithm is used so that each shot taken is cut to a width and height of 380px, as it is mandatory for the use of API VISUAL RECOGNITION
