@@ -17,3 +17,5 @@ A face recognition algorithm is used so that each shot taken is cut to a width a
 The IBM Watson™ Visual Recognition service uses deep learning algorithms to identify scenes, objects, and celebrity faces in images you upload to the service. You can create and train a custom classifier to identify subjects that suit your needs.
 
 Descriptions of Python classes referred to in this reference are available in the Python documentation for the Watson Developer Cloud Python SDK.
+
+####Installation Visual Recognition - Python
