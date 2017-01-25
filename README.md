@@ -21,3 +21,5 @@ Descriptions of Python classes referred to in this reference are available in th
 ####Installation Visual Recognition - Python
 -------------------
 	•pip install --upgrade watson-developer-cloud
+	
+
