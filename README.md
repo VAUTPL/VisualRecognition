@@ -22,4 +22,10 @@ Descriptions of Python classes referred to in this reference are available in th
 -------------------
 	•pip install --upgrade watson-developer-cloud
 	
-
+####Requirements
+-------------------
+	•OpenCV
+	•Anaconda v 4.2.0 for Windows
+	
+	
+	
