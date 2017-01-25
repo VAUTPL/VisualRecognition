@@ -26,6 +26,9 @@ Descriptions of Python classes referred to in this reference are available in th
 -------------------
 	•OpenCV
 	•Anaconda v 4.2.0 for Windows
-	
+####Running SaCI
+-------------------
+	- python face.py
+
 	
 	
