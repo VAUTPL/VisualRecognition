@@ -33,5 +33,31 @@ Descriptions of Python classes referred to in this reference are available in th
 When you execute this line, it will show a json with the obtained data
 ![Jackie Chan](http://vignette2.wikia.nocookie.net/doblaje/images/e/ed/Jackie-chan.jpg/revision/latest?cb=20120718011439&path-prefix=es)
 -------------------------
-![Json Jackie Chan](https://www.dropbox.com/s/v22gbc9iu4zp7fz/Captura.PNG?dl=0)
--------------------------
+        ```
+         "faces": [
+        {
+          "gender": {
+            "gender": "MALE",
+            "score": 0.993307
+          },
+          "age": {
+            "max": 64,
+            "score": 0.432146,
+            "min": 55
+          },
+          "identity": {
+            "score": 0.993307,
+            "name": "Jackie Chan",
+            "type_hierarchy": "/people/celebrities/stars/jackie chan"
+          },
+          "face_location": {
+            "width": 178,
+            "top": 72,
+            "left": 111,
+            "height": 213
+          }
+        }
+      ]
+    }
+     
+        ```
