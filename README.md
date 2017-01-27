@@ -31,7 +31,7 @@ Descriptions of Python classes referred to in this reference are available in th
 	- python face.py
 
 When you execute this line, it will show a json with the obtained data
-####![Jackie Chan](http://vignette2.wikia.nocookie.net/doblaje/images/e/ed/Jackie-chan.jpg/revision/latest?cb=20120718011439&path-prefix=es)
+![Jackie Chan](http://vignette2.wikia.nocookie.net/doblaje/images/e/ed/Jackie-chan.jpg/revision/latest?cb=20120718011439&path-prefix=es)
 -------------------------
         "faces": [
         {
@@ -60,3 +60,27 @@ When you execute this line, it will show a json with the obtained data
     }
 ![Jefferson Perez](http://cdnb.20m.es/quefuede/files/2013/01/jeffersonperez.jpg)
 -------------------------      
+	 "faces": [
+        {
+          "gender": {
+            "gender": "MALE",
+            "score": 0.993307
+          },
+          "age": {
+            "max": 44,
+            "score": 0.490723,
+            "min": 35
+          },
+          "identity": {
+            "score": 0.993307,
+            "name": "Jefferson P\u00e9rez",
+            "type_hierarchy": "/counties/jefferson/jefferson p\u00e9rez"
+          },
+          "face_location": {
+            "width": 126,
+            "top": 55,
+            "left": 141,
+            "height": 131
+          }
+        }
+      ]
