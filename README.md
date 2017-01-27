@@ -33,7 +33,7 @@ Descriptions of Python classes referred to in this reference are available in th
 When you execute this line, it will show a json with the obtained data
 ![Jackie Chan](http://vignette2.wikia.nocookie.net/doblaje/images/e/ed/Jackie-chan.jpg/revision/latest?cb=20120718011439&path-prefix=es)
 -------------------------
-	-example
+	
 	 "faces": [
         {
           "gender": {
@@ -46,8 +46,8 @@ When you execute this line, it will show a json with the obtained data
             "min": 55
           },
           "identity": {
-            "score": 0.993307,
-            "name": "Jackie Chan",
+            ***"score": 0.993307,***
+            ***"name": "Jackie Chan",***
             "type_hierarchy": "/people/celebrities/stars/jackie chan"
           },
           "face_location": {
