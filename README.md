@@ -30,5 +30,33 @@ Descriptions of Python classes referred to in this reference are available in th
 -------------------
 	- python face.py
 
-	
+When you execute this line, it will show a json with the obtained data
+-------------------------
+	-example
+	 "faces": [
+        {
+          "gender": {
+            "gender": "MALE",
+            "score": 0.993307
+          },
+          "age": {
+            "max": 64,
+            "score": 0.432146,
+            "min": 55
+          },
+          "identity": {
+            "score": 0.993307,
+            "name": "Jackie Chan",
+            "type_hierarchy": "/people/celebrities/stars/jackie chan"
+          },
+          "face_location": {
+            "width": 178,
+            "top": 72,
+            "left": 111,
+            "height": 213
+          }
+        }
+      ]
+    }
+  
 	
