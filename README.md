@@ -33,4 +33,4 @@ Descriptions of Python classes referred to in this reference are available in th
 When you execute this line, it will show a json with the obtained data
 ![Jackie Chan](http://vignette2.wikia.nocookie.net/doblaje/images/e/ed/Jackie-chan.jpg/revision/latest?cb=20120718011439&path-prefix=es)
 -------------------------
-![Json Jackie Chan](https://www.dropbox.com/home/IBM/sdk/python-sdk-master/resources?preview=Captura.PNG)
+![Json Jackie Chan](https://www.dropbox.com/s/cixird0los7nvum/Captura.PNG?dl=0)
