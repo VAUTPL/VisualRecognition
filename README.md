@@ -89,3 +89,26 @@ In the case when running our line of code with 2 celebrities, it throws us corre
 Now we will use a Teacher of La Utpl
 
 ![Rodigo Barba](https://github.com/VAUTPL/VisualReconition/blob/master/rodrigobabatest12%20.jpg)
+-------------------------      
+	 "images": [
+        {
+          "classifiers": [
+            {
+	    	"classes": [
+	    		{
+			 "class": "Rodrigo_Barba"
+			 "score":  0.998888
+			},
+		"classes": [
+	    		{
+			 "class": "Pablo_Torres"
+			 "score":  0.335421
+			},
+		"classes": [
+	    		{
+			 "class": "Guido_Riofrio"
+			 "score":  0.145565
+			},		
+                ]
+ 
+	
