@@ -84,3 +84,8 @@ When you execute this line, it will show a json with the obtained data
           }
         }
       ]
+ 
+In the case when running our line of code with 2 celebrities, it throws us correctly.
+Now we will use a Teacher of La Utpl
+
+![Rodigo Barba](http://cdnb.20m.es/quefuede/files/2013/01/jeffersonperez.jpg)
