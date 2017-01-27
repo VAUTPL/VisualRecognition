@@ -31,7 +31,7 @@ Descriptions of Python classes referred to in this reference are available in th
 	- python face.py
 
 When you execute this line, it will show a json with the obtained data
-![JACKIE CHAN]: (http://vignette2.wikia.nocookie.net/doblaje/images/e/ed/Jackie-chan.jpg/revision/latest?cb=20120718011439&path-prefix=es)
+![Jackie Chan](http://vignette2.wikia.nocookie.net/doblaje/images/e/ed/Jackie-chan.jpg/revision/latest?cb=20120718011439&path-prefix=es)
 -------------------------
 	-example
 	 "faces": [
