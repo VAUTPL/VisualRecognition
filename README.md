@@ -46,7 +46,8 @@ When you execute this line, it will show a json with the obtained data
             "min": 55
           },
           "identity": {
-            ```"score": 0.993307,
+            ```json
+	    "score": 0.993307,
             "name": "Jackie Chan",
             type_hierarchy": "/people/celebrities/stars/jackie chan"```
           },
